@@ -1,0 +1,9 @@
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+User-agent: *
+Allow: /
+
+Sitemap: https://syair-netizen.github.io/sitemap.xml
+Sitemap: http://syair-netizen.github.io/sitemap.xml
+Sitemap: syair-netizen.github.io/sitemap.xml
